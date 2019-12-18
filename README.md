@@ -33,9 +33,9 @@ MATLAB code of DeepSim, a full-reference image quality assessment (FR-IQA) metho
 1. This work is based on ``MATLAB``;
 2. Before use this code, please download the VGG16 network pretrained on ImageNet, ``imagenet-vgg-verydeep-16.mat``, and put it under a subfolder ``/data``
 3. ``FR_DeepSim.m`` is the main function;
-4. ``FR_DeepSim_demo.m`` is an example, ``imageDis.bmp`` is a distorted image,  ``imageRef.bmp`` is the corresponding refernce/undistorted image.
+4. ``FR_DeepSim_demo.m`` is an example, ``imageDis.bmp`` is a distorted image, and  ``imageRef.bmp`` is the corresponding refernce/undistorted image.
 5. ``pooling.m`` includes different pooling methods;
-6. ``CNN paractical.pdf`` introduce the ``matconvnet`` toolbox: http://www.vlfeat.org/matconvnet/;
+6. ``CNN paractical.pdf`` introduces the ``matconvnet`` toolbox: http://www.vlfeat.org/matconvnet/;
 7. ``vlfeat`` : http://www.vlfeat.org/
 8. ``MSSIM`` : http://live.ece.utexas.edu/index.php
 
