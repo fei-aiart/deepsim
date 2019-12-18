@@ -37,4 +37,6 @@ MATLAB code of DeepSim, a full-reference image quality assessment (FR-IQA) metho
 5. ``pooling.m`` includes different pooling methods;
 6. ``CNN paractical.pdf`` introduce the ``matconvnet`` toolbox: http://www.vlfeat.org/matconvnet/;
 7. ``vlfeat`` : http://www.vlfeat.org/
+8. ``MSSIM`` : http://live.ece.utexas.edu/index.php
+
 
