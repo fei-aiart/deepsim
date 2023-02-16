@@ -9,23 +9,14 @@ MATLAB code of DeepSim, a full-reference image quality assessment (FR-IQA) metho
 **bib:**
 
 > @article{GAO2017DeepSim,
->
 > title = "DeepSim: Deep similarity for image quality assessment",
->
 > journal = "Neurocomputing",
->
 > volume = "257",
->
 > pages = "104 - 114",
->
 > year = "2017",
->
 > issn = "0925-2312",
->
 > doi = "https://doi.org/10.1016/j.neucom.2017.01.054",
->
 > author = "Fei Gao and Yi Wang and Panpeng Li and Min Tan and Jun Yu and Yani Zhu",
->
 > }
 
 ## Usage
